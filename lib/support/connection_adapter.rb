@@ -12,4 +12,3 @@ class ConnectionAdapter
       :database => self.database
     )
   end
-end
