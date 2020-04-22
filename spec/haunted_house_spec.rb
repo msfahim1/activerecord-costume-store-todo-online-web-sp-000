@@ -60,4 +60,4 @@ describe "HauntedHouse" do
     expect(HauntedHouse.find_by(name: "13th Floor").description).to eq(description)
   end
 
-end
+end 
